@@ -7,7 +7,7 @@ export default function Phonetics(props) {
     <div>
       Listen
       <br />
-      <ReactAudioPlayer src={props.phonetic.audio} autoPlay controls />
+      <ReactAudioPlayer src={props.phonetic.audio} autoPlay={false} controls />
       <br />
       {props.phonetic.text}
     </div>
