@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Dictionary App!</h1>
+        <h1>The 📔Dictionary</h1>
         <h2>
           <Dictionary />
         </h2>

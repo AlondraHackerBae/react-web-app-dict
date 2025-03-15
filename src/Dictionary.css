@@ -1,0 +1,25 @@
+:root {
+  --main-font-family: "Quicksand", sans-serif;
+  --main-font-weight: 100;
+  --main-font-style: thin;
+  --main-color: black;
+}
+.dictionary-form section {
+  background-color: #fff;
+  border: 1px solid rgb(255, 17, 184);
+  border-radius: 5px;
+  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.3);
+  margin: 20px 0;
+  padding: 20px;
+  text-align: left;
+}
+.dictionary-form input {
+  border: 2px solid rgb(255, 17, 184);
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px 20px;
+}
+.Hint {
+  font-size: 11px;
+  margin-top: 5px;
+}
