@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "axios": "^1.8.1",
+    "cors": "^2.8.5",
+    "http-proxy-middleware": "^3.0.3",
     "react": "^19.0.0",
     "react-audio-player": "^0.17.0",
     "react-dom": "^19.0.0"
